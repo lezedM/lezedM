@@ -1,16 +1,16 @@
-## Hi there 👋
+# 🛡️ Alexandre Marquer | Étudiant Cybersécurité
 
-<!--
-**lezedM/lezedM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚡ En Bref
+**Étudiant Informatique (2ème année)**. Axé sur le **Réseau et la Sécurité**.
 
-Here are some ideas to get you started:
+Mon objectif : devenir **professionnel en Cybersécurité**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Compétences Clés
+* **Administration Systèmes**
+* **Sécurité Réseau** (Gestion de **Pare-feux** / Firewalls)
+
+## 🌐 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-marquer-36a930396/)
+
+---
